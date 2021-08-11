@@ -13,4 +13,4 @@ Novel2Comics 是作者在github上的第一个项目，这个想法已经萌生�
 
 - 通过微信 / via Wechat
 <br>
-<img src="wechat.jpg" width="200" height="200">
+<img src="wechat_1.jpg" width="200" height="200">
